@@ -1,0 +1,8 @@
+#contact{
+    background: var(--black);
+}
+
+@font-face{
+    font-family: toothless;
+    src: url('asset...')
+}
